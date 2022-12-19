@@ -38,6 +38,9 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 
 `sudo mount -o nobrowse -t apfs  /dev/disk4s5 /Users/<YOUR USER NAME>/livemount`
 
+
+## Getting the AquaLickX theme copied over for use. Continue using the already open Terminal window
+
 4. `cd ~/Downloads/AquaLickX-main/`
 
 5. `sudo cp Aqua.car && sudo cp VibrantLight.car ~/livemount/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/`
@@ -47,6 +50,7 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 7. Reboot your Mac using the regular reboot mechanisms immediately after issuing the `bless` command described above.
 
 **the command below will reboot your Mac then and there, so be careful unless you're certain that you have all your work saved in other applications** 
+
 8. type `sudo reboot` in the existing Terminal window
 
 

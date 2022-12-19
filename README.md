@@ -4,8 +4,13 @@
 **PREVIEW** - subject to change
 ![AquaLickXPreview@2x](https://github.com/VisualisationExpo/AquaLickX/blob/main/AquaLickXPreview@2x.png?raw=true)
 
-**GETTING READY**
-> snagged from jslegendre [https://github.com/jslegendre/ThemeEngine]()
+---
+
+### **GETTING READY**
+
+----
+
+> text edited and snagged from jslegendre [https://github.com/jslegendre/ThemeEngine]()
 
 Note for Big Sur, Monterey and Ventura users:
 If you want to edit system .car files it is no longer enough to remount the boot volume as read/write.
@@ -38,6 +43,7 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 
 `sudo mount -o nobrowse -t apfs  /dev/disk4s5 /Users/<YOUR USER NAME>/livemount`
 
+---
 
 ## Getting the AquaLickX theme copied over for use. Continue using the already open Terminal window
 
@@ -53,8 +59,9 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 
 8. type `sudo reboot` in the existing Terminal window
 
+---
 
-**TO DO:**
+### **TO DO:**
 What ever feedback comes - if I feel they are valid.
 
 Adding striped image to the Finder toolbar is a thing for an alternate version as the way it appears macOS deals with images is a bit strange.

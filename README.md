@@ -2,7 +2,7 @@
 A macOS theme that has some Aqua elements in it
 
 **PREVIEW** - subject to change
-![AquaLickXPreview@2x](https://user-images.githubusercontent.com/86615159/208486938-eddb1327-d7dd-4f9a-8d6c-6c3767f913d4.png)
+![AquaLickXPreview@2x](https://github.com/VisualisationExpo/AquaLickX/blob/main/AquaLickXPreview@2x.png?raw=true)
 
 
 

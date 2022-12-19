@@ -44,7 +44,7 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 
 6. Bless your livemount with `sudo bless --mount /Users/<YOUR USER NAME>/livemount --bootefi --create-snapshot`
 
-7. Reboot your Mac using the regular reboot mechanisms immediately after issuing the `bless`command describes above.
+7. Reboot your Mac using the regular reboot mechanisms immediately after issuing the `bless` command described above.
 
 **the command below will reboot your Mac then and there, so be careful unless you're certain that you have all your work saved in other applications** 
 8. type `sudo reboot` in the existing Terminal window

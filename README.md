@@ -49,15 +49,17 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 
 4. `cd ~/Downloads/AquaLickX-main/`
 
-5. `sudo cp Aqua.car && sudo cp VibrantLight.car ~/livemount/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/`
+5. `sudo cp Aqua.car ~/livemount/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/`
 
-6. Bless your livemount with `sudo bless --mount /Users/<YOUR USER NAME>/livemount --bootefi --create-snapshot`
+6. `sudo cp VibrantLight.car ~/livemount/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/`
 
-7. Reboot your Mac using the regular reboot mechanisms immediately after issuing the `bless` command described above.
+7. Bless your livemount with `sudo bless --mount /Users/<YOUR USER NAME>/livemount --bootefi --create-snapshot`
+
+8. Reboot your Mac using the regular reboot mechanisms immediately after issuing the `bless` command described above.
 
 **the command below will reboot your Mac then and there, so be careful unless you're certain that you have all your work saved in other applications** 
 
-8. type `sudo reboot` in the existing Terminal window
+9. type `sudo reboot` in the existing Terminal window
 
 ---
 

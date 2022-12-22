@@ -4,6 +4,8 @@
 **PREVIEW** - subject to change
 ![AquaLickXPreview@2x](https://github.com/VisualisationExpo/AquaLickX/blob/main/AquaLickXPreview@2x.png?raw=true)
 
+**DARK MODE PREVIEW**
+![DarkModeAquaLickXPreview@2x](https://github.com/VisualisationExpo/AquaLickX/blob/main/DarkModeAquaLickXPreview@2x.png?raw=true)
 ---
 
 ### **GETTING READY**

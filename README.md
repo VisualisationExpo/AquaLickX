@@ -50,14 +50,13 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 ## Getting the AquaLickX theme copied over for use. Continue using the already open Terminal window
 
 4. `cd ~/Downloads/AquaLickX-main/`
-
 5. `sudo cp Aqua.car ~/livemount/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/`
-
 6. `sudo cp VibrantLight.car ~/livemount/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/`
+7. `sudo cp DarkAqua.car ~/livemount/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/`
+8. `sudo cp VibrantDark.car ~/livemount/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/`
+9. Bless your livemount directory with `sudo bless --mount /Users/<YOUR USER NAME>/livemount --bootefi --create-snapshot`
 
-7. Bless your livemount with `sudo bless --mount /Users/<YOUR USER NAME>/livemount --bootefi --create-snapshot`
-
-8. Reboot your Mac using the regular reboot mechanisms immediately after issuing the `bless` command described above.
+Reboot your Mac using the regular reboot mechanisms immediately after issuing the `bless` command described above.
 
 **the command below will reboot your Mac then and there, so be careful unless you're certain that you have all your work saved in other applications** 
 

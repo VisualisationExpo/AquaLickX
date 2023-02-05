@@ -57,6 +57,7 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 9. Bless your livemount directory with `sudo bless --mount /Users/<YOUR USER NAME>/livemount --bootefi --create-snapshot`
 
 If you're on an Apple Silicon Mac then issue this `bless` command instead
+
 `sudo bless --mount "$HOME/mount/System/Library/CoreServices/" --setBoot --create-snapshot`
 
 

@@ -56,6 +56,9 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 8. `sudo cp VibrantDark.car ~/livemount/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/`
 9. Bless your livemount directory with `sudo bless --mount /Users/<YOUR USER NAME>/livemount --bootefi --create-snapshot`
 
+If you're on an Apple Silicon Mac then issue this `bless` command instead
+`sudo bless --mount "$HOME/mount/System/Library/CoreServices/" --setBoot --create-snapshot`
+
 
 Reboot your Mac using the regular reboot mechanisms immediately after issuing the `bless` command described above.
 

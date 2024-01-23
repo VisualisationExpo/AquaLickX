@@ -1,3 +1,6 @@
+# NOTE:**There's no support for macOS Ventura or macOS Sonoma at this point. It's strickly for macOS Monterey**
+
+
 # AquaLickX for macOS Monterey
 **A macOS Monterey theme that has some Aqua elements in it**
 

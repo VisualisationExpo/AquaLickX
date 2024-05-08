@@ -62,7 +62,7 @@ Run the mount command in Terminal to mount the system volume disk to a temporary
 
 If you're on an Apple Silicon Mac then issue this `bless` command instead
 
-`sudo bless --mount "$HOME/mount/System/Library/CoreServices/" --setBoot --create-snapshot`
+`sudo bless --mount "$HOME/livemount/System/Library/CoreServices/" --setBoot --create-snapshot`
 
 
 Reboot your Mac using the regular reboot mechanisms immediately after issuing the `bless` command described above.

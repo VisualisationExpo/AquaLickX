@@ -1,6 +1,11 @@
-# NOTE:**There's no support for macOS Ventura or macOS Sonoma at this point. It's strickly for macOS Monterey**
-> the reason is that there's currently a good working method of writing to .car files on macOS Sonoma using current utilities. 
-There's a bug in ThemeEngine (117) that writes out black backgrounds on assets.
+**There's is now a version for macOS Sonoma 14.5**
+
+# AquaLickX for Sonoma 14.5 is available here 
+> https://github.com/VisualisationExpo/AquaLickX-Sonoma145Edition
+
+
+
+## This repo you're reading contains a vrsion strictly for macOS Monterey and **not** macOS Sonoma
 
 # AquaLickX for macOS Monterey
 **A macOS Monterey theme that has some Aqua elements in it**
